@@ -1,6 +1,12 @@
 ## Bin ein Friesenjung, bin ein kleiner Friesenjung
 Und ich wohne hinterm Deich
 
+<img width="175" height="100" alt="straight ally" src="https://github.com/user-attachments/assets/a623d02b-69e0-4d95-ad77-bbbea6e7e8c2" />
+<img width="175" height="100" alt="from the river to the sea" src="https://github.com/user-attachments/assets/4b8a5cae-d03f-4dd0-a4dd-956937b83a72" />
+<img width="58" height="100" alt="osi" src="https://github.com/user-attachments/assets/58131715-c4bc-4ab8-ba7d-5881e1ba60a8" />
+<img width="102" height="102" alt="joost" src="https://github.com/user-attachments/assets/33fe0b2b-a4ca-4917-b81f-d725bd73790c" />
+<img width="150" height="105" alt="SLOVAK" src="https://github.com/user-attachments/assets/27c60057-c9d7-4ec8-bcf2-f2bb6f2b16a2" />
+
 ### hey, i'm eire
 
 proud slovak!!!!!!1!1!1!!1!1!!1!1!
