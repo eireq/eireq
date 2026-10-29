@@ -6,7 +6,7 @@ Und ich wohne hinterm Deich
 <img width="58" height="100" alt="osi" src="https://github.com/user-attachments/assets/58131715-c4bc-4ab8-ba7d-5881e1ba60a8" />
 <img width="102" height="102" alt="joost" src="https://github.com/user-attachments/assets/33fe0b2b-a4ca-4917-b81f-d725bd73790c" />
 <img width="150" height="105" alt="SLOVAK" src="https://github.com/user-attachments/assets/27c60057-c9d7-4ec8-bcf2-f2bb6f2b16a2" />
-<img width="312" height="42" alt="dont even joke" src="https://github.com/user-attachments/assets/d0896ad2-7f12-4e9e-b768-c810476fbb18" />
+<img width="212" height="42" alt="dont even joke" src="https://github.com/user-attachments/assets/d0896ad2-7f12-4e9e-b768-c810476fbb18" />
 
 
 ### hey, i'm eire
