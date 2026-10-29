@@ -1,4 +1,5 @@
-## Hi there 👋
+## Bin ein Friesenjung, bin ein kleiner Friesenjung
+Und ich wohne hinterm Deich
 
 <!--
 **eireq/eireq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
